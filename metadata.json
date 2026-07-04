@@ -1,0 +1,6 @@
+{
+  "name": "Iron Paradise Gym",
+  "description": "Iron Paradise is a premier local gym in Midhilapuri Vuda Colony, Madhuravada, Visakhapatnam. Offering professional strength training, weight loss, muscle gain, and fitness support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
